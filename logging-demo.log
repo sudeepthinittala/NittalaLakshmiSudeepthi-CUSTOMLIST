@@ -1,0 +1,11 @@
+2020-03-07 21:25:23 DEBUG App:20 - List is : [22,33,44,45]
+2020-03-07 21:25:23 INFO  App:21 - Removed Second Element:
+2020-03-07 21:25:23 INFO  App:23 - List is:[22,33,45]
+2020-03-07 21:25:23 DEBUG App:24 - First ELement is: 22
+2020-03-07 21:25:23 DEBUG App:25 - Second Element is: 33
+2020-03-07 21:25:23 DEBUG App:26 - Size of the list is: 3
+2020-03-07 21:25:23 INFO  App:32 - List2 is :[icecream,chocolate,sweets,drinks]
+2020-03-07 21:25:23 DEBUG App:33 - First Element is: 22
+2020-03-07 21:25:23 DEBUG App:34 - Second Element is: 4
+2020-03-07 21:25:23 INFO  App:35 - Removed Third Element: 
+2020-03-07 21:25:23 DEBUG App:37 - List is:[icecream,chocolate,sweets]
